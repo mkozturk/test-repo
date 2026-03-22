@@ -1,4 +1,3 @@
 # test-repo
 A repository for using in lectures
-Second line
-\nSecond line
+Line added in remote repo
